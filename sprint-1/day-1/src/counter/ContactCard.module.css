@@ -1,0 +1,14 @@
+.container{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+    gap:2rem;
+    margin-bottom:0.25rem ;
+    border-bottom: 1px solid rgb(227, 226, 226);
+    border-bottom-left-radius: 0rem; 
+    border-bottom-right-radius: 0rem;
+}
+
+.clickContainer:hover{
+    cursor: pointer;
+}
