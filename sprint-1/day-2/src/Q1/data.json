@@ -1,0 +1,185 @@
+
+ [
+    {
+      "id": 1,
+      "title": "Ghar Jaisa khana",
+      "imgURL":
+        "https://c.ndtvimg.com/2020-05/9iuj3h1g_indian-food_625x300_19_May_20.jpg",
+      "mrp": "₹ 199.00",
+      "sellingPrice": "₹ 132.00",
+      "discount": "33%"
+    },
+    {
+      "id": 2,
+      "title": "Urban Chili Center ",
+      "imgURL":
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnvoZtXWQJb7JluSIdiPK0XET4ucQnEFw2w&usqp=CAU",
+      "mrp": "₹ 399.00",
+      "sellingPrice": "₹ 149.00",
+      "discount": "33%"
+    },
+    {
+      "id": 3,
+      "title": "North-Indian corner",
+      "imgURL":
+        "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg",
+      "mrp": "₹ 120.00",
+      "sellingPrice": "₹ 60.00",
+      "discount": "50%"
+    },
+    {
+      "id": 4,
+      "title": "New biryani center",
+      "imgURL":
+        "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oxdv1otk7vcqxszppctu",
+      "mrp": "₹ 185.00",
+      "sellingPrice": "₹ 92.00",
+      "discount": "50%"
+    },
+    {
+      "id": 5,
+      "title": "Atithi restaurant",
+      "imgURL":
+        "https://s3-ap-southeast-1.amazonaws.com/foodvista.1/38579f5e-bcbe-42d6-98f7-690787f64219.jpg",
+      "mrp": "₹ 279.00",
+      "sellingPrice": "₹ 224.00",
+      "discount": "50%"
+    },
+    {
+      "id": 6,
+      "title": "Sibani Foods Products",
+      "imgURL":
+        "https://assets.bonappetit.com/photos/62154b9846c5f5cb1103c4f0/3:4/w_748%2Cc_limit/20220215%2520Vegan%2520Vodka%2520Pasta_LEDE.jpg",
+      "mrp": "₹ 120.00",
+      "sellingPrice": "₹ 60.00",
+      "discount": "50%"
+    },
+    {
+      "id": 7,
+      "title": "Rajkumar restaurant Foods",
+      "imgURL":
+        "https://static.theprint.in/wp-content/uploads/2022/03/indian-meal.jpg?compress=true&quality=80&w=376&dpr=2.6",
+      "mrp": "₹ 225.00",
+      "sellingPrice": "₹ 168.00",
+      "discount": "25%"
+    },
+    {
+      "id": 8,
+      "title": " Nawabi Kabab",
+      "imgURL":
+        "https://www.thespruceeats.com/thmb/mgghjeWktybcYG5_2Ky44sslDQc=/3648x3648/smart/filters:no_upscale()/traditional-shish-kebabs-335199-hero-01-f8046460cc3d4ffb99d17743465c7cd3.jpg",
+      "mrp": "₹ 220.00",
+      "sellingPrice": "₹ 196.00",
+      "discount": "27%"
+    }
+    ,
+    {
+      "id": 9,
+      "title": " BURGER BOX",
+      "imgURL":
+        "https://img.freepik.com/free-photo/big-hamburger-with-double-beef-french-fries_252907-8.jpg?w=2000",
+      "mrp": "₹ 95.00",
+      "sellingPrice": "₹ 110.00",
+      "discount": "18%"
+    },
+    {
+      "id": 10,
+      "title": "momo corner",
+      "imgURL":
+        "https://i.ytimg.com/vi/IVM_CQvgxCg/maxresdefault.jpg",
+      "mrp": "₹ 5.00",
+      "sellingPrice": "₹ 460.00",
+      "discount": "18%"
+    },
+    {
+        "id": 11,
+        "title": "Dalma Hotel",
+        "imgURL":
+          "https://www.thespruceeats.com/thmb/TTsydZkvlx25nvMQPZq0wB5o87c=/1500x1500/smart/filters:no_upscale()/GettyImages-1042998066-518ca1d7f2804eb09039e9e42e91667c.jpg",
+        "mrp": "₹ 199.00",
+        "sellingPrice": "₹ 132.00",
+        "discount": "33%"
+      },
+      {
+        "id": 12,
+        "title": "Radha Restaurant ",
+        "imgURL":
+          "https://www.sidechef.com/recipe/1d2fdc37-e943-442e-8551-3ade58e86c0e.jpeg?d=1408x1120",
+        "mrp": "₹ 399.00",
+        "sellingPrice": "₹ 149.00",
+        "discount": "33%"
+      },
+      {
+        "id": 13,
+        "title": "Panjabi Dhaba",
+        "imgURL":
+          "https://media.istockphoto.com/photos/indian-food-curry-butter-chicken-palak-paneer-chiken-tikka-biryani-picture-id1271562227?k=20&m=1271562227&s=612x612&w=0&h=8gSALr5HGCEUdZXMP0ZC4DBcWk8tmKxueQX6HYSU1Zc=",
+        "mrp": "₹ 120.00",
+        "sellingPrice": "₹ 60.00",
+        "discount": "50%"
+      },
+      {
+        "id": 14,
+        "title": "New Kama's  Inn",
+        "imgURL":
+          "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/kadai-paneer-500x500.jpg",
+        "mrp": "₹ 185.00",
+        "sellingPrice": "₹ 92.00",
+        "discount": "50%"
+      },
+      {
+        "id": 15,
+        "title": "Aroma Corner",
+        "imgURL":
+          "https://www.recipehub.in/wp-content/uploads/2020/06/pepperchicken12website-1.jpg",
+        "mrp": "₹ 279.00",
+        "sellingPrice": "₹ 224.00",
+        "discount": "50%"
+      },
+      {
+        "id": 16,
+        "title": "Param Foods Products",
+        "imgURL":
+          "https://static.toiimg.com/photo/72023714.cms",
+        "mrp": "₹ 120.00",
+        "sellingPrice": "₹ 60.00",
+        "discount": "50%"
+      },
+      {
+        "id": 17,
+        "title": "Gyatri foods ",
+        "imgURL":
+          "https://i.ndtvimg.com/i/2017-07/rajasthani-food-festival_620x350_41500037747.jpg",
+        "mrp": "₹ 225.00",
+        "sellingPrice": "₹ 168.00",
+        "discount": "25%"
+      },
+      {
+        "id": 18,
+        "title": "A Nawabi Kababia Zaika-e-lucknow",
+        "imgURL":
+          "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/olw5wurhx7r8rga7iwan",
+        "mrp": "₹ 220.00",
+        "sellingPrice": "₹ 196.00",
+        "discount": "27%"
+      }
+      ,
+      {
+        "id": 19,
+        "title": "KFC BURGER",
+        "imgURL":
+          "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/lwtdaemfoqzdierlayz5",
+        "mrp": "₹ 95.00",
+        "sellingPrice": "₹ 110.00",
+        "discount": "18%"
+      },
+      {
+        "id": 20,
+        "title": "momo love",
+        "imgURL":
+          "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cwgppnlcc64vmulm69tx",
+        "mrp": "₹ 5.00",
+        "sellingPrice": "₹ 460.00",
+        "discount": "18%"
+      }
+  ]
